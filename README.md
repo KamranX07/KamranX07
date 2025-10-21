@@ -1,8 +1,8 @@
 ## Hello Internet 👋
-This is Kamran. I am pursuing my B-Tech Engineering Career in Computer Science Engineering. I am a Newbie so i am looking forward to learning and working with you all.
-- 🔭 I’m currently working on something i even don't know about it.
-- 🌱 I’m currently learning **Java, HTML and CSS**.
-- 👯 I’m looking to collaborate on java related projects. 
+This is Kamran. I am pursuing my B-Tech Engineering Career in Computer Science Engineering. I am an experienced developer and i am looking forward to learning and working with you all.
+- 🔭 I’m currently working on an Ai Project using Next.js.
+- 🌱 I’m currently learning **DSA in Java as well as Web Development**.
+- 👯 I’m looking to collaborate on group projects. 
 - 💬 Ask me about anything, I am Happy to Help.
 - 📫 You can also contact me through mail mdkamranakhter78@gmail.com
 - ⚡ Fun fact: If you sneez too hard, you could fracture a rib.
