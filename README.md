@@ -11,6 +11,8 @@ This is Kamran. I am pursuing my B-Tech Engineering Career in Computer Science E
 - [Linkedin](https://www.linkedin.com/in/md-kamran-akhter-58301a333)
 - [Twitter](https://x.com/ProXGam87539263)
 
+<a href="https://gitroll.io/profile/uxt79j2JqQ7X2TFVT8g5YCb9Jsx92" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxt79j2JqQ7X2TFVT8g5YCb9Jsx92?theme=light" alt="GitRoll Profile Badge"/></a>
+
 
 
 
